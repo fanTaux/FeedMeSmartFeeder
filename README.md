@@ -81,8 +81,8 @@ This project presents an Internet of Things (IoT) solution that automates key as
 This IoT project can save cost, time, and effort for chicken farmers. Its automatic features can provide benefits for chicken farmers. With this product we can also bring a better life with future technology. As long as we can use this product well, we can develop chicken farming with better techniques and provide better efficiency for other activities.
 
 ## Team
-1. Nathanael Erens Susanto  (235150300111044)
-2. Faris Arinanta           (235150300111045)
-3. Achmad Fiky Akbar        (235150301111043)
-4. Nabilla Suci Amanda      (235150301111044)
-5. Ahmad Maulana Maky       (235150307111038)
+1. Balevvvvy (https://github.com/Balevvvvy)
+2. fanTaux (https://github.com/fanTaux)
+3. nabsuc (https://github.com/nabsuc)
+4. Nathanael
+5. maulanamaky (https://github.com/maulanamaky)
