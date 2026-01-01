@@ -5,7 +5,7 @@
 </p>
 
 ## Project Domain
-This project presents an Internet of Things (IoT) solution that automates key aspects of livestock care. It features an automated system for dispensing feed and water via actuators and integrates real-time environmental monitoring to ensure optimal temperature conditions.
+ <div align="justify"> This project presents an Internet of Things (IoT) solution that automates key aspects of livestock care. It features an automated system for dispensing feed and water via actuators and integrates real-time environmental monitoring to ensure optimal temperature conditions. </div>
 
 ## Table Of Contents
 - [Background](#background)
@@ -21,9 +21,10 @@ This project presents an Internet of Things (IoT) solution that automates key as
 
 
 ### Problem Statements
-1. Feeding and watering chickens is still performed manually, requiring the farmer's constant physical presence.
+ <div align="justify"> 1. Feeding and watering chickens is still performed manually, requiring the farmer's constant physical presence.
 2. Farm management is inefficient in terms of time and energy due to repetitive daily tasks.
-3. The temperature inside the chicken coop is unpredictable and not consistently monitored, which can negatively affect chicken health and growth.
+3. The temperature inside the chicken coop is unpredictable and not consistently monitored, which can negatively affect chicken health and growth. </div>
+
    
 ### Goals
 1. Automate the feeding and watering process with remote control and scheduling via a mobile app.
